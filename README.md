@@ -60,4 +60,4 @@ npm install
   ```
   heroku logs -a {YOUR_APP_NAME} --tail
   ```
-  詳細請參考[Heroku 官方文件] (https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction)
+  詳細請參考[Heroku 官方文件] (https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) 
